@@ -4,7 +4,7 @@ I'm a Software Development student who loves to work with front-end and i apprec
 
 Currently studying Javascript and improving my CSS skills, such as FlexBox and Grid Layout
 
-#### How to reache me:
+#### How to reach me:
 <div>
   <a href = "mailto:lucasbellodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-bello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
