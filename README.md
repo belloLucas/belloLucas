@@ -3,13 +3,15 @@
 I'm a Software Development student who loves to work with front-end and i appreciate build systems that actually help people solve their needs 
 
 Currently studying Javascript and improving my CSS skills, such as FlexBox and Grid Layout
+  <div align="center">
+    <a href="https://github.com/belloLucas">
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=belloLucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/belloLucas">
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belloLucas&layout=compact&langs_count=7&theme=tokyonight"/>
+    </a>
+  </div>
 
-  <a href="https://github.com/belloLucas">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=belloLucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/belloLucas">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belloLucas&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
 
 
 
