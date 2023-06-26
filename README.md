@@ -10,8 +10,7 @@
 
 ## About me
 
-I'm a Software Development student who loves to work with front-end and i appreciate build systems that will actually help people solve their needs
-
+I'm a Software Development student who loves to build new things through code, doing the back and the front-end. Currently studying Java and Springboot on Alura ONE (Oracle Next Education)
 <br>
 
   <div align="center">
