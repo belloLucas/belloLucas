@@ -12,6 +12,7 @@
 
 ```diff
 Just someone who is passionate about tech and loves to code stuff.
+
 The art of creating things through some lines of code makes me fascinated about it.
 
 + Coding mostly in Java with Spring Boot and Javascript with React
