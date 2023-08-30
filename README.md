@@ -15,11 +15,11 @@ Just someone who is passionate about tech and loves to code stuff.
 
 The art of creating things through some lines of code makes me fascinated about it.
 
+- 21 years old, currently living in Juiz de Fora, Brazil
+
 + Coding mostly in Java with Spring Boot and Javascript with React
 
 #Interest in Kotlin and mobile development stuff.
-
-- 21 years old, currently living in Juiz de Fora, Brazil
 ```
 
 <br>
